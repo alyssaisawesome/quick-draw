@@ -1,0 +1,19 @@
+body {
+  font-size:xx-large;
+}
+
+canvas {
+  animation-name:example;
+  animation-duration:4s;
+  animation-iteration-count: infinite;
+  border-radius:20px;
+  margin-top:200px;
+}
+
+@keyframes example {
+  0%   {box-shadow: 1px 1px 38px lightcoral;}
+  25%   {box-shadow: 1px 1px 38px lightpink;}
+  50%  {box-shadow: 1px 1px 38px palevioletred;}
+  75%   {box-shadow: 1px 1px 38px plum;}
+  100%  {box-shadow: 1px 1px 38px lightcoral;}
+}
