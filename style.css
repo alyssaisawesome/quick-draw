@@ -11,9 +11,9 @@ canvas {
 }
 
 @keyframes example {
-  0%   {box-shadow: 1px 1px 38px lightcoral;}
-  25%   {box-shadow: 1px 1px 38px lightpink;}
-  50%  {box-shadow: 1px 1px 38px palevioletred;}
-  75%   {box-shadow: 1px 1px 38px plum;}
-  100%  {box-shadow: 1px 1px 38px lightcoral;}
+  0%   {box-shadow: 1px 1px 38px paleturquoise;}
+  25%   {box-shadow: 1px 1px 38px royalblue;}
+  50%  {box-shadow: 1px 1px 38px lightblue;}
+  75%   {box-shadow: 1px 1px 38px cornflowerblue;}
+  100%  {box-shadow: 1px 1px 38px paleturquoise;}
 }
